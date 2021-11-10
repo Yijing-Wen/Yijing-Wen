@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yijing-Wen
 - 👀 I’m interested in explainable AI, Generative models.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Compostional Generative Models
+- 💞️ I’m looking to collaborate on explainable AI 
 - 📫 yijing.wen@strath.ac.uk
 
 <!---
